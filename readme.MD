@@ -3,8 +3,14 @@
 * Dosa Flour
 * Light oil
 
+<<<<<<< HEAD
+# Egg Dosa
+* 3 eggs 
+* oil
+
 # Special Dosa
 * Dosa Batter
-* Bobai chutney
 * Podi
+* karam
 * oil
+* Bobai chutney
